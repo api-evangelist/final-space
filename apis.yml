@@ -39,7 +39,6 @@ apis:
   - name: Final Space
     description: "Final Space API"
     humanURL: https://finalspaceapi.com/docs/
-    baseURL: https://finalspaceapi.com/docs/
     tags:
       - Video
     properties:
